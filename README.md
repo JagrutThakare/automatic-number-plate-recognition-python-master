@@ -1,6 +1,7 @@
-# automatic-number-plate-recognition-python
-
+# ALPR SYSTEM
 Automatic number plate recognition using Python, EasyOCR and OpenCV!
 
+<code> $ > streamlit run app.py </code>
 
-You can download the model for the license plate detector [here](https://github.com/computervisioneng/yolo-license-plate-detection).
+
+You can download the model for the license plate detector [here](https://drive.google.com/file/d/1vXjIoRWY0aIpYfhj3TnPUGdmJoHnWaOc/edit).
